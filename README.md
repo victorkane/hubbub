@@ -1,4 +1,4 @@
-Hubbub
+Hubbub by Victor Kane
 ======
 
 Issues get messy, Hubbub keeps you organized.
